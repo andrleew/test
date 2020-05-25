@@ -1,1 +1,5 @@
 some text in master
+some text
+some text from feature
+another text from master
+another text from new-feature
