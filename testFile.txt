@@ -5,3 +5,5 @@ another text from master
 another text from new-feature
 tetx from feature
 text text
+rebase text
+from branch
